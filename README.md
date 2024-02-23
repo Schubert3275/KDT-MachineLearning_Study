@@ -20,6 +20,15 @@
 > 상속
 
 </details>
+<details>
+<summary> 머신러닝 기초 </summary>
+
+> 머신러닝 소개
+> 머신러닝용 라이브러리 소개
+> 머신러닝 프로세스 설명
+> 생선 분류
+
+</details>
 
 ---
 
@@ -28,6 +37,7 @@
 | `DAY_01\check_pk.py`    | 설치 패키지 버전 확인 |
 | `DAY_01\ex_class.py`    | 클래스 기초           |
 | `DAY_01\ex_class_02.py` | 클래스 상속           |
+| `DAY_01\ex_fish.ipynb`  | 생선 분류             |
 
 #### DAY01 실습과제
 
