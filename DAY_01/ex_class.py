@@ -69,11 +69,12 @@ class DCalc:
     # 클래스 메서드
     @classmethod
     def addNum(cls, a, b):
-        print(cls)
+        print(cls.name)
+        print(DCalc.name)
         return a + b
 
     @classmethod
-    def minuNum(cls, a, b):
+    def minusNum(cls, a, b):
         return a - b
 
 
@@ -125,4 +126,5 @@ print("loc =>", C.loc, c1.loc)
 # C.printInfo()
 
 print(f"DCalc.name : {DCalc.name}")
-print("DCalc")
+print(f"Dcalc.addNum : {DCalc.addNum(10, 20)}")
+print(f"Dcalc.minusNum : {DCalc.minusNum(10, 20)}")
