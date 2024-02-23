@@ -12,7 +12,7 @@
 ---
 
 <details>
-<summary>  </summary>
+<summary> 클래스 기초 </summary>
 
 >
 
