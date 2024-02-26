@@ -39,7 +39,26 @@
 | `DAY_01\ex_class_02.py` | 클래스 상속            |
 | `DAY_01\ex_fish.ipynb`  | scikit-learn 생선 분류 |
 
-#### DAY01 실습과제
+### DAY02
+
+---
+
+<details>
+<summary> K-Nearest Neighbor </summary>
+
+> KNN을 사용한 생선 분류
+> 학습용/테스트용 데이터 생성
+
+</details>
+
+---
+
+| 파일명                          | 내용            |
+| ------------------------------- | --------------- |
+| `DAY_02\ex_find_fish_knn.ipynb` | 생선 분류 - KNN |
+| `DAY_02\ex_sampling.ipynb`      | 판다스 sampling |
+
+#### DAY02 실습과제
 
 ---
 
