@@ -53,13 +53,15 @@
 
 ---
 
-| 파일명                          | 내용            |
-| ------------------------------- | --------------- |
-| `DAY_02\ex_find_fish_knn.ipynb` | 생선 분류 - KNN |
-| `DAY_02\ex_sampling.ipynb`      | 판다스 sampling |
+| 파일명                             | 내용            |
+| ---------------------------------- | --------------- |
+| `DAY_02\ex_find_fish_knn.ipynb`    | 생선 분류 - KNN |
+| `DAY_02\ex_sampling.ipynb`         | 판다스 sampling |
+| `DAY_02\ex_find_fish_knn_02.ipynb` | 생선 분류 - KNN |
+| `DAY_02\ex_find_fish_knn_03.ipynb` | 생선 분류 - KNN |
 
 #### DAY02 실습과제
 
 ---
 
-    1. pass
+    1. Wine 품질 선별 모델
