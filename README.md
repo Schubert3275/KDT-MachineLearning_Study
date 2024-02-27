@@ -65,3 +65,34 @@
 ---
 
     1. Wine 품질 선별 모델
+
+### DAY03
+
+---
+
+<details>
+<summary> Scikit-Learn 전처리 </summary>
+
+> 정규화
+> 이산화/범주화
+> 인코딩
+
+</details>
+<details>
+<summary> 선형회귀 </summary>
+
+> 입력 데이터에 대한 값을 예측
+
+</details>
+
+---
+
+| 파일명                            | 내용                       |
+| --------------------------------- | -------------------------- |
+| `DAY_03\ex_fish_regression.ipynb` | 생선 무게에 따른 길이 예측 |
+
+#### DAY03 실습과제
+
+---
+
+    1. Wine 품질 선별 모델
