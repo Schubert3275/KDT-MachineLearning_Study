@@ -83,12 +83,13 @@
 
 ---
 
-| 파일명                            | 내용                       |
-| --------------------------------- | -------------------------- |
-| `DAY_03\ex_fish_regression.ipynb` | 생선 무게에 따른 길이 예측 |
+| 파일명                               | 내용                |
+| ------------------------------------ | ------------------- |
+| `DAY_03\ex_fish_regression.ipynb`    | LinearRegression    |
+| `DAY_03\ex_fish_knnRegression.ipynb` | KNeighborsRegressor |
 
 #### DAY03 실습과제
 
 ---
 
-    1. Wine 품질 선별 모델
+    1. 당뇨병 예측 모델 구현
