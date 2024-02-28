@@ -99,17 +99,29 @@
 ---
 
 <details>
-<summary> 이상치 데이터 처리 </summary>
+<summary> 선형회귀 </summary>
 
->
+> 이상치 데이터 처리
+> Z-Score
+> IQR
+
+</details>
+<details>
+<summary> 다중회귀 </summary>
+
+> 피쳐 스케일링
+> StandardScaler
+> MinMaxScaler
+> RobustScaler
 
 </details>
 
 ---
 
-| 파일명                    | 내용               |
-| ------------------------- | ------------------ |
-| `DAY_04\ex_outlier.ipynb` | 이상치 데이터 처리 |
+| 파일명                                  | 내용               |
+| --------------------------------------- | ------------------ |
+| `DAY_04\ex_outlier.ipynb`               | 이상치 데이터 처리 |
+| `DAY_04\ex_multi_LinerRegression.ipynb` | 다중회귀           |
 
 #### DAY03 실습과제
 
