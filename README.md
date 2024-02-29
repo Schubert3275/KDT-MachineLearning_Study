@@ -154,6 +154,7 @@
 | ----------------------------------------- | ------------------------------- |
 | `DAY_05\ex_logistic_Regression.ipynb`     | 선형 모델 기반의 분류 모델 구현 |
 | `DAY_05\ex_fish_logisticRegression.ipynb` | 생선 분류 모델                  |
+| `DAY_05\ex_ovr.ipynb`                     | OVR 모듈 활용                   |
 
 #### DAY05 실습과제
 
