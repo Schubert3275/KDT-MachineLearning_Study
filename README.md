@@ -131,7 +131,7 @@
 | `DAY_04\ex_multi_LinerRegression.ipynb` | 다중회귀           |
 | `DAY_04\ex_poly_LinearRegression.ipynb` | 피쳐 추가 생성     |
 
-#### DAY03 실습과제
+#### DAY04 실습과제
 
 ---
 
