@@ -115,6 +115,13 @@
 > RobustScaler
 
 </details>
+<details>
+<summary> 특징 생성 </summary>
+
+> 다항식 생성
+> PolynomialFeatures
+
+</details>
 
 ---
 
@@ -122,9 +129,10 @@
 | --------------------------------------- | ------------------ |
 | `DAY_04\ex_outlier.ipynb`               | 이상치 데이터 처리 |
 | `DAY_04\ex_multi_LinerRegression.ipynb` | 다중회귀           |
+| `DAY_04\ex_poly_LinearRegression.ipynb` | 피쳐 추가 생성     |
 
 #### DAY03 실습과제
 
 ---
 
-    1. pass
+    1. AutoMPG 연비 예측 모델 구현
