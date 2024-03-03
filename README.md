@@ -144,7 +144,26 @@
 <details>
 <summary> 비선형 Regression </summary>
 
+> LogisticRegression
 > a, b 업데이트 최적화 기법
+
+</details>
+<details>
+<summary> OVR, OVO 모듈 </summary>
+
+> OneVsRestClassifier
+> OneVsOneClassifier
+
+</details>
+<details>
+<summary> 모델 성능 평가 </summary>
+
+> accuracy_score
+> precision_score
+> f1_score
+> recall_score
+> confusion_matrix
+> classification_report
 
 </details>
 
@@ -153,11 +172,11 @@
 | 파일명                                    | 내용                            |
 | ----------------------------------------- | ------------------------------- |
 | `DAY_05\ex_logistic_Regression.ipynb`     | 선형 모델 기반의 분류 모델 구현 |
-| `DAY_05\ex_fish_logisticRegression.ipynb` | 생선 분류 모델                  |
+| `DAY_05\ex_fish_logisticRegression.ipynb` | 생선 분류 모델 / 모델 성능 평가 |
 | `DAY_05\ex_ovr.ipynb`                     | OVR 모듈 활용                   |
 
 #### DAY05 실습과제
 
 ---
 
-    1. pass
+    1. Breast Cancer Wisconsin 종양 분류 모델 구현
