@@ -196,15 +196,22 @@
 > classification_report
 
 </details>
+<details>
+<summary> 확률적경사하강법 </summary>
+
+> SGDClassifier
+
+</details>
 
 ---
 
-| 파일명                                       | 내용               |
-| -------------------------------------------- | ------------------ |
-| `DAY_06\ex_classification_performance.ipynb` | 분류 모델 성능지표 |
+| 파일명                                       | 내용                  |
+| -------------------------------------------- | --------------------- |
+| `DAY_06\ex_classification_performance.ipynb` | 분류 모델 성능지표    |
+| `DAY_06\ex_sgd_regressor.ipynb`              | 미니배치기반 기계학습 |
 
 #### DAY06 실습과제
 
 ---
 
-    1. Breast Cancer Wisconsin 종양 분류 모델 구현
+    1. MNIST 이미지 이진 분류/다중 분류
