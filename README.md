@@ -180,3 +180,31 @@
 ---
 
     1. Breast Cancer Wisconsin 종양 분류 모델 구현
+
+### DAY06
+
+---
+
+<details>
+<summary> 모델 성능 평가 </summary>
+
+> accuracy_score
+> precision_score
+> f1_score
+> recall_score
+> confusion_matrix
+> classification_report
+
+</details>
+
+---
+
+| 파일명                                       | 내용               |
+| -------------------------------------------- | ------------------ |
+| `DAY_06\ex_classification_performance.ipynb` | 분류 모델 성능지표 |
+
+#### DAY06 실습과제
+
+---
+
+    1. Breast Cancer Wisconsin 종양 분류 모델 구현
