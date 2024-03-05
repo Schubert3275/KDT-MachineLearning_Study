@@ -226,6 +226,13 @@
 > MNIST
 
 </details>
+<details>
+<summary> 규제, 정규화 </summary>
+
+> Ridge
+> Lasso
+
+</details>
 
 ---
 
