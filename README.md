@@ -240,6 +240,8 @@
 | -------------------------------------- | -------------------------------- |
 | `DAY_07\ex_mnist_classification.ipynb` | MNIST 이미지 데이터 분류         |
 | `DAY_07\ex_fish_ridge_lasso.ipynb`     | 가중치 값을 조절해 과대적합 해결 |
+| `DAY_07\ex_kfold.ipynb`                | 교차 검증                        |
+| `DAY_07\ex_cv_validation.ipynb`        | 교차 검증 단순화                 |
 
 #### DAY07 실습과제
 
