@@ -227,10 +227,25 @@
 
 </details>
 <details>
-<summary> 규제, 정규화 </summary>
+<summary> 규제, 정규화 모델 </summary>
 
 > Ridge
 > Lasso
+
+</details>
+<details>
+<summary> 교차검증 모델 </summary>
+
+> cross_validate
+> cross_val_score
+> cross_val_predict
+
+</details>
+<details>
+<summary> 튜닝 및 모델 선택 </summary>
+
+> GridSearchCV
+> all_estimators
 
 </details>
 
@@ -247,4 +262,4 @@
 
 ---
 
-    1.
+    1. Boston House Price 예측 모델 구현
