@@ -263,3 +263,26 @@
 ---
 
     1. Boston House Price 예측 모델 구현
+
+### DAY08
+
+---
+
+<details>
+<summary> 다양한 모델 </summary>
+
+> SVM
+
+</details>
+
+---
+
+| 파일명 | 내용 |
+| ------ | ---- |
+| ``     |      |
+
+#### DAY08 실습과제
+
+---
+
+    1.
