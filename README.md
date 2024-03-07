@@ -312,6 +312,7 @@
 <summary> 앙상블(ENSEMBLE) </summary>
 
 > RandomForest
+> VotingClassifier
 
 </details>
 
@@ -322,6 +323,8 @@
 | `DAY_09\ex_iris_dt.ipynb`               | 결정트리 피쳐 분할 기준 |
 | `DAY_09\use_model.py`                   | 저장한 모델로 예측 수행 |
 | `DAY_09\ex_cancer_classification.ipynb` | 종양 분류               |
+| `DAY_09\ex_cancer_voting.ipynb`         | 보팅방식 모델 구현      |
+| `DAY_09\ex_gbm.ipynb`                   | 그래디언트 부스팅       |
 
 #### DAY09 실습과제
 
