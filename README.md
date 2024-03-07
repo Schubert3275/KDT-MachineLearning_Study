@@ -302,12 +302,19 @@
 > 지니계수
 
 </details>
+<details>
+<summary> 모델 파일로 저장하기 </summary>
+
+> joblib
+
+</details>
 
 ---
 
 | 파일명                    | 내용                    |
 | ------------------------- | ----------------------- |
 | `DAY_09\ex_iris_dt.ipynb` | 결정트리 피쳐 분할 기준 |
+| `DAY_09\use_model.py`     | 저장한 모델로 예측 수행 |
 
 #### DAY09 실습과제
 
