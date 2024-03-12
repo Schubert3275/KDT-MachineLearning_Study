@@ -14,18 +14,18 @@
 <details>
 <summary> 클래스 기초 </summary>
 
-> 클래스 속성, 클래스 메서드
-> 인스턴스 속성, 인스터스 메서드
-> 오버라이딩, 오버로딩
+> 클래스 속성, 클래스 메서드\
+> 인스턴스 속성, 인스터스 메서드\
+> 오버라이딩, 오버로딩\
 > 상속
 
 </details>
 <details>
 <summary> 머신러닝 기초 </summary>
 
-> 머신러닝 소개
-> 머신러닝용 라이브러리 소개
-> 머신러닝 프로세스 설명
+> 머신러닝 소개\
+> 머신러닝용 라이브러리 소개\
+> 머신러닝 프로세스 설명\
 > 생선 분류
 
 </details>
@@ -46,7 +46,7 @@
 <details>
 <summary> K-Nearest Neighbor </summary>
 
-> KNN을 사용한 생선 분류
+> KNN을 사용한 생선 분류\
 > 학습용/테스트용 데이터 생성
 
 </details>
@@ -73,10 +73,10 @@
 <details>
 <summary> Scikit-Learn 전처리 </summary>
 
-> 정규화
-> 이산화/범주화
-> 인코딩
-> 선형회귀
+> 정규화\
+> 이산화/범주화\
+> 인코딩\
+> 선형회귀\
 > 과대적합, 과소적합, 최적적합
 
 </details>
@@ -101,24 +101,24 @@
 <details>
 <summary> 선형회귀 </summary>
 
-> 이상치 데이터 처리
-> Z-Score
+> 이상치 데이터 처리\
+> Z-Score\
 > IQR
 
 </details>
 <details>
 <summary> 다중회귀 </summary>
 
-> 피쳐 스케일링
-> StandardScaler
-> MinMaxScaler
+> 피쳐 스케일링\
+> StandardScaler\
+> MinMaxScaler\
 > RobustScaler
 
 </details>
 <details>
 <summary> 특징 생성 </summary>
 
-> 다항식 생성
+> 다항식 생성\
 > PolynomialFeatures
 
 </details>
@@ -144,25 +144,25 @@
 <details>
 <summary> 비선형 Regression </summary>
 
-> LogisticRegression
+> LogisticRegression\
 > a, b 업데이트 최적화 기법
 
 </details>
 <details>
 <summary> OVR, OVO 모듈 </summary>
 
-> OneVsRestClassifier
+> OneVsRestClassifier\
 > OneVsOneClassifier
 
 </details>
 <details>
 <summary> 모델 성능 평가 </summary>
 
-> accuracy_score
-> precision_score
-> f1_score
-> recall_score
-> confusion_matrix
+> accuracy_score\
+> precision_score\
+> f1_score\
+> recall_score\
+> confusion_matrix\
 > classification_report
 
 </details>
@@ -188,11 +188,11 @@
 <details>
 <summary> 모델 성능 평가 </summary>
 
-> accuracy_score
-> precision_score
-> f1_score
-> recall_score
-> confusion_matrix
+> accuracy_score\
+> precision_score\
+> f1_score\
+> recall_score\
+> confusion_matrix\
 > classification_report
 
 </details>
@@ -229,22 +229,22 @@
 <details>
 <summary> 규제, 정규화 모델 </summary>
 
-> Ridge
+> Ridge\
 > Lasso
 
 </details>
 <details>
 <summary> 교차검증 모델 </summary>
 
-> cross_validate
-> cross_val_score
+> cross_validate\
+> cross_val_score\
 > cross_val_predict
 
 </details>
 <details>
 <summary> 튜닝 및 모델 선택 </summary>
 
-> GridSearchCV
+> GridSearchCV\
 > all_estimators
 
 </details>
@@ -271,7 +271,7 @@
 <details>
 <summary> 다양한 모델 </summary>
 
-> SVM
+> SVM\
 > Decision Tree
 
 </details>
@@ -297,8 +297,8 @@
 <details>
 <summary> 의사결정나무(DT) </summary>
 
-> 엔트로피
-> 정보이득
+> 엔트로피\
+> 정보이득\
 > 지니계수
 
 </details>
@@ -311,10 +311,10 @@
 <details>
 <summary> 앙상블(ENSEMBLE) </summary>
 
-> RandomForest
-> Voting
-> GradientBoosting
-> XGBoost
+> RandomForest\
+> Voting\
+> GradientBoosting\
+> XGBoost\
 > LightGBM
 
 </details>
